@@ -1,4 +1,6 @@
 name = input("이름 : ")
 id = input("학번 : ")
+major = input("학과 : ")
 print(name)
 print(id)
+print(major)
